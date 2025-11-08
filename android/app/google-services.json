@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "242777030865",
+    "project_id": "pizzabrosa-e6884",
+    "storage_bucket": "pizzabrosa-e6884.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:242777030865:android:8c2a8b0c3a35b0078645f0",
+        "android_client_info": {
+          "package_name": "com.pizzabrosa.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk0Mw0tDRo3UgkDWOFcrJD_-4ZN9TNmyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
